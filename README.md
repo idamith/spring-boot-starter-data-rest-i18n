@@ -5,7 +5,7 @@ This demo project is to demonstrate how to implement internationalization (i18n)
 ## Implement translatable REST API
 - Create a simple REST API using Spring Boot
 - Create message resource bundles for default language and application supported languages
-[](src/main/resources/images/img-01.jpeg)
+![](src/main/resources/images/img-01.jpeg)
 
 - Create [CustomLocaleResolver.java](src/main/java/com/idotrick/i18n/springrest/CustomLocaleResolver.java)
 ```java
