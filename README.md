@@ -58,7 +58,7 @@ public class SpringBootRestI18nApplication {
 }
 ```
 
-##Consume REST API Message service
+## Consume REST API Message service
 - git clone https://github.com/idotrick/spring-boot-starter-data-rest-i18n.git
 - Import project to your favourite IDE and run Spring Boot application
 - Run on Terminal
