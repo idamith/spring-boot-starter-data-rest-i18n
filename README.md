@@ -1,4 +1,4 @@
-# Demo Project for i18n with Spring Boot Rest
+# Spring Boot Translatable REST API
 
 This demo project is to demonstrate how to implement internationalization (i18n) in Spring Boot based REST API.
 
